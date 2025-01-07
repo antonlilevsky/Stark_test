@@ -68,7 +68,7 @@ jobs:
           #
           #          http://localhost:3000/help
           #          '
-          urls: |
+          urls: |-
             https://www.ah.nl
             https://www.ah.nl/allerhande
             https://www.ah.nl/bonus/bier-aanbiedingen
