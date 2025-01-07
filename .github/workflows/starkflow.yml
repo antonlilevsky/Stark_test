@@ -68,15 +68,15 @@ jobs:
           #
           #          http://localhost:3000/help
           #          '
-          urls: '
-            https://www.ah.nl/
+          urls: |
+            https://www.ah.nl
             https://www.ah.nl/allerhande
             https://www.ah.nl/bonus/bier-aanbiedingen
             https://www.ah.nl/bonus/folder/bonus-kerst-folder
             https://www.ah.nl/bonus/gratis-bezorging
             https://www.ah.nl/producten
             https://www.ah.nl/bonus
-            '
+            
           # [Optional] Navigation timeout for puppeteer in ms. How long should puppeteer wait till it checks page load (wait until event) is complete.
           # Note: This timeout applies to all pages in your url list individually
           # Defaults to 30000 ms
